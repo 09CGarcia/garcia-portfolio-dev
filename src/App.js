@@ -14,8 +14,6 @@ export default function App(){
       <Container>
         <Row>
           <Col><Card/></Col>
-          <Col><Card/></Col>
-          <Col><Card/></Col>
         </Row>
       </Container>
       <Footer/>
