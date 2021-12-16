@@ -6,11 +6,9 @@ export default function CardComponent() {
 	return (
 		<Card>
 			<Card.Body>
-				<Card.Title>This is a Card Title</Card.Title>
+				<Card.Title>This Card Talks About Me</Card.Title>
 				<Card.Text>
-					<p>
-					Lorem, ipsum, dolor sit amet consectetur adipisicing elit. Rerum illum accusamus repellat beatae est, in quaerat earum, aliquid ducimus commodi eaque omnis ullam quo eos quis sapiente corrupti maxime obcaecati.
-					</p>
+					<p>Name: Christine Garcia, an IT Instructor in Zuitt</p>
 				</Card.Text>
 				<Button variant = "success">Go Somewhere</Button>
 			</Card.Body>
