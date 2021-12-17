@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <Fragment>
       <Container>
-        <h1> Hi I am footer</h1>
+        <h1> Hi I am Footer!</h1>
       </Container>
     </Fragment>
   )
